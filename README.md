@@ -33,11 +33,6 @@ A simple and effective To-Do List application to help users manage their tasks e
 
 We welcome contributions from everyone! Feel free to open issues or submit pull requests to enhance the project.
 
----
-
-## Live Demo
-
-[Click here to view the project live](#)
 
 ---
 
